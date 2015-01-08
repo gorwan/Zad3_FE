@@ -13,6 +13,6 @@ Filtr -https://docs.angularjs.org/api/ng/filter/filter
 1. Pobrac repor
 2. npm install
 3. bower install
-4. uruchomic nginx aby sterował repo
+4. uruchomic nginx(na macu działa) aby sterował repo
 5. sprawdzic sciezki
-6. done :smail:
+6. done :apple:
