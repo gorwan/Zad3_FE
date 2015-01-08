@@ -15,4 +15,4 @@ Filtr -https://docs.angularjs.org/api/ng/filter/filter
 3. bower install
 4. uruchomic nginx aby sterował repo
 5. sprawdzic sciezki
-6. done :(::
+6. done :smail:
